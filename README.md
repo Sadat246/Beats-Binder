@@ -51,21 +51,17 @@ The modules you need are nodeenv, pygraphviz, pgadmin4, and django-extensions
 
 ## Project Members
 #### Hui Wen Weng
-- hweng40@stuy.edu
 - HuiWenWeng
-- Responsible for home page and API calling
+- Responsible for home page 
 
 #### Zidanni Clerigo
-- zclerigo40@stuy.edu
 - zClerigo
 - Responsible for songs inventory
 
 #### Bushra Rahman
-- brahman40@stuy.edu
 - BushraRahman
 - Responsible for databases and albums inventory
 
 #### Sadat Ahmed
-- sahmed40@stuy.edu
 - Sadat40
-- Responsible for artists inventory
+- Responsible for artists inventory and API calling
