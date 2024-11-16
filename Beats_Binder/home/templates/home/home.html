@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block search %}
+    <form action="search_results" method="get">
+        {% csrf_token %}
+        {{search_form.as_p}}
+    </form>
+{% endblock search %}
+
+{% block content%}
+<html>
+
+    <head>
+        <link rel="stylesheet" href="{% static 'home.css' %}">
+        <title>Home Page</title>
+    </head>
+
+    <body>
+        <div class="charts">
+
+            <table>
+                <tr><th>Top Artists</th></tr>
+
+                {% for artist in top_artists %}
+                <tr><td><a href={{artist.image}}>{{artist.artist_name}}</a></td></tr>
+                {% endfor %}
+            </table>
+
+
+            <table>
+                <tr><th>Top Albums</th></tr>
+
+                {% for album in top_albums %}
+                <tr><td><a href={{album.image}}>{{album.album_name}}</a></td></tr>
+                {% endfor %}
+            </table>
+
+
+            <table>
+                <tr><th>Top Tracks</th></tr>
+
+                {% for track in top_tracks %}
+                <tr><td><a href={{track.image}}>{{track.song_name}}</a></td></tr>
+                {% endfor %}
+            </table>
+
+        </div>
+
+    </body>
+
+    <script src="{% static 'home.js' %}"></script>
+</html>
+{% endblock content %}

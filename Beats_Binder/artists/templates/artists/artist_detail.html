@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block search %} 
+<form action="artists/artist_search_results" method="get">
+    {% csrf_token %}
+    {{artist_search_form.as_p}}
+</form>
+{% endblock search %}
+
+{% block content %}
+<html>
+    <head>
+<link rel="stylesheet" href="{% static 'artists/artists.css' %}">
+    </head>
+    </html>
+<div class="container mt-4 custom-container">
+    <h1 class="mb-4">Artist's Name: {{ artist.name }}</h1>
+    <div class="mb-4">
+        <img src="{{ artist.cover }}" alt="image" class="img-fluid" width="200" height="200">
+    </div>
+    <h1 class="mb-4">Number of Albums: {{ artist.nb_album }}</h1>
+</div>
+{% endblock content %}

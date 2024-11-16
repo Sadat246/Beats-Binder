@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load home_extras %}
+
+{% block search %}
+    <form action="search_results" method="get">
+        {% csrf_token %}
+        {{search_form.as_p}}
+    </form>
+{% endblock search %}
+
+{% block content%}
+<html>
+
+    <head>
+        <link rel="stylesheet" href="{% static 'home.css' %}">
+        <title>Search Results Page</title>
+    </head>
+
+    <body>
+        <h1>Results for: {{search_input}}</h1>
+        <table>
+            <tr>
+                <th>Track Title</th>
+                <th>Artist</th>
+                <th>Album</th>
+            </tr>
+            {% for result in search_result %}
+            <tr>
+                <td>{{result.title}}</td>
+                <td>{{result.artist.name}}</td>
+                <td>{{result.album.title}}</td>
+                <td> 
+                    <form method="post">
+                    {% csrf_token %}
+                    {% with albumID=result.album.id %}
+                    {% with result.artist.id as artistID %}
+                    {% with result.id as trackID %}
+                    {% with trackID|concatenate:" "|concatenate:artistID|concatenate:" "|concatenate:albumID as ids %}
+                    {% with ids|returnHomeButton:"SAVE" as homeButton %}
+                    {{ homeButton|safe }}
+                    </form>
+                    {% endwith %} {% endwith %} {% endwith %} {% endwith %} {% endwith %} 
+                </td>
+            <tr>
+            {% endfor %}
+        </table>
+    </body>
+
+    <script src="{% static 'home.js' %}"></script>
+</html>
+{% endblock content %}

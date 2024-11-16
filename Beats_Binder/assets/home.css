@@ -1,0 +1,18 @@
+.charts {
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+
+th {
+    font-size: 20px;
+    padding: 2%;
+}
+
+
+td {
+    text-align: center;
+    font-size: 16px;
+    padding: 1%;
+} 
+

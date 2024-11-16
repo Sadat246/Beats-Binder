@@ -1,0 +1,17 @@
+.custom-container {
+    background-color:#F4D35E;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.mb-4 {
+    margin-bottom: 1.5rem !important;
+}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block search %} 
+<form action="songs/song_search_results" method="get">
+    {% csrf_token %}
+    {{search_form.as_p}}
+</form>
+{% endblock search %}
+
+{% block content %}
+    <html>
+    <head>
+        <link rel="stylesheet" href="{% static 'songs/songs.css' %}">
+    </head>
+<div class="container mt-4 custom-container">
+    <h1 class="mb-4">Song Name: {{ song.name }}</h1>
+    <h1 class="mb-4">Artist's Name: {{ song.artist.all.0.name }} </h1>
+    {% if song.contributors.all.0 %}
+    <h1 class="mb-4">Contributors: {{ song.contributors.all.0.name }}</h1>
+    {% endif %}
+    <h1 class="mb-4">Album Name: {{ song.album.all.0.name }}</h1>
+    <h1 class="mb-4">Duration: {{ song.duration }} seconds</h1>
+    <h1 class="mb-4">Preview:</h1>
+    <audio controls class="mb-4">
+        <source src="{{ song.preview }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+{% endblock content %}

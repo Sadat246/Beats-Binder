@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block search %} 
+<form action="albums/album_search_results" method="get">
+    {% csrf_token %}
+    {{album_search_form.as_p}}
+</form>
+{% endblock search %}
+
+{% block content %}
+<html>
+    <head>
+<link rel="stylesheet" href="{% static 'albums/albums.css' %}">
+    </head>
+    </html>
+<div class="container mt-4 custom-container">
+    <h1 class="mb-4">Name: {{ album.name }}</h1>
+    <h1 class="mb-4">Artist's Name: {{ album.artist.all.0.name }}</h1>
+        {% if song.contributors.all.0 %}
+    <h1 class="mb-4">Contributors: {{ song.contributors.all.0.name }}</h1>
+    {% endif %}
+    <div class="mb-4">
+        <img src="{{ album.cover }}" alt="image" class="img-fluid" width="200" height="200">
+    </div>
+    <h1 class="mb-4">Genre: {{ album.genre }}</h1>
+    <h1 class="mb-4">Number of Tracks: {{ album.nb_tracks }}</h1>
+    <h1 class="mb-4">Duration: {{ album.duration }} seconds</h1>
+    <h1 class="mb-4">Release Date: {{ album.release_date }}</h1>
+    <h1 class="mb-4">Record Type: {{ album.record_type }}</h1>
+</div>
+{% endblock content %}

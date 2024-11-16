@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content%}
+<html>
+
+    <head>
+        <link rel="stylesheet" href="{% static 'home.css' %}">
+        <title>Search Results Page</title>
+    </head>
+
+    <body>
+        <h1>Albums Inventory</h1>
+        <h3>Results for: {{search_input}}</h3>
+        <table>
+            <tr>
+                <th>Album Title</th>
+                <th>Artist</th>
+            </tr>
+            {% for result in search_result %}
+            <tr>
+                <td>{{result.title}}</td>
+                <td>{{result.artist.name}}</td>
+                <td>{{result.album.title}}</td>
+                  <td> 
+                    <form method="post">
+                    {% csrf_token %}
+                    <button type="submit" name={{ result.album.id }}>SAVE</button>
+                    </form> 
+                </td>
+            <tr>
+            {% endfor %}
+        </table>
+    </body>
+
+    <script src="{% static 'home.js' %}"></script>
+</html>
+{% endblock content %}

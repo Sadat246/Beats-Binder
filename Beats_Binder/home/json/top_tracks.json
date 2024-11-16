@@ -1,0 +1,1202 @@
+[
+    {
+      "artist_name": "Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2020/04/dua-lipa-eqf-levitating-tr9-180x180.jpg",
+      "rank": "1",
+      "song_name": "Levitating"
+    },
+    {
+      "artist_name": "The Weeknd & Ariana Grande",
+      "image": "https://charts-static.billboard.com/img/2020/12/the-weeknd-uyi-save-your-tears-e5b-180x180.jpg",
+      "rank": "2",
+      "song_name": "Save Your Tears"
+    },
+    {
+      "artist_name": "The Weeknd",
+      "image": "https://charts-static.billboard.com/img/2019/12/the-weeknd-uyi-blinding-lights-q48-180x180.jpg",
+      "rank": "3",
+      "song_name": "Blinding Lights"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2021/01/olivia-rodrigo-3wl-drivers-license-w08-180x180.jpg",
+      "rank": "4",
+      "song_name": "Drivers License"
+    },
+    {
+      "artist_name": "BTS",
+      "image": "https://charts-static.billboard.com/img/2020/09/bts-mv7-dynamite-zg6-180x180.jpg",
+      "rank": "5",
+      "song_name": "Dynamite"
+    },
+    {
+      "artist_name": "Bad Bunny & Jhay Cortez",
+      "image": "https://charts-static.billboard.com/img/2020/11/bad-bunny-poo-dakiti-wxy-180x180.jpg",
+      "rank": "6",
+      "song_name": "Dakiti"
+    },
+    {
+      "artist_name": "Lil Nas X",
+      "image": "https://charts-static.billboard.com/img/2021/04/lil-nas-x-qv4-montero-call-me-by-your-name-2lw-180x180.jpg",
+      "rank": "7",
+      "song_name": "Montero (Call Me By Your Name)"
+    },
+    {
+      "artist_name": "The Kid LAROI & Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2021/07/the-kid-laroi-qev-stay-vsd-180x180.jpg",
+      "rank": "8",
+      "song_name": "Stay"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2021/05/olivia-rodrigo-3wl-good-4-u-ysx-180x180.jpg",
+      "rank": "9",
+      "song_name": "Good 4 U"
+    },
+    {
+      "artist_name": "24kGoldn Featuring iann dior",
+      "image": "https://charts-static.billboard.com/img/2020/08/24kgoldn-hvh-mood-agm-180x180.jpg",
+      "rank": "10",
+      "song_name": "Mood"
+    },
+    {
+      "artist_name": "Justin Bieber Featuring Daniel Caesar & Giveon",
+      "image": "https://charts-static.billboard.com/img/2021/04/justin-bieber-f8k-peaches-sl5-180x180.jpg",
+      "rank": "11",
+      "song_name": "Peaches"
+    },
+    {
+      "artist_name": "BTS",
+      "image": "https://charts-static.billboard.com/img/2021/06/bts-mv7-butter-45t-180x180.jpg",
+      "rank": "12",
+      "song_name": "Butter"
+    },
+    {
+      "artist_name": "Doja Cat Featuring SZA",
+      "image": "https://charts-static.billboard.com/img/2021/04/doja-cat-lm6-kiss-me-more-3fc-180x180.jpg",
+      "rank": "13",
+      "song_name": "Kiss Me More"
+    },
+    {
+      "artist_name": "Masked Wolf",
+      "image": "https://charts-static.billboard.com/img/2020/11/masked-wolf-voi-astronaut-in-the-ocean-4ou-180x180.jpg",
+      "rank": "14",
+      "song_name": "Astronaut In The Ocean"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2021/07/ed-sheeran-w3r-bad-habits-i7l-180x180.jpg",
+      "rank": "15",
+      "song_name": "Bad Habits"
+    },
+    {
+      "artist_name": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+      "image": "https://charts-static.billboard.com/img/2021/03/silk-sonic-bruno-mars-and-anderson-paak-qd5-leave-the-door-open-ife-180x180.jpg",
+      "rank": "16",
+      "song_name": "Leave The Door Open"
+    },
+    {
+      "artist_name": "Glass Animals",
+      "image": "https://charts-static.billboard.com/img/2020/07/glass-animals-rtd-heat-waves-1lv-180x180.jpg",
+      "rank": "17",
+      "song_name": "Heat Waves"
+    },
+    {
+      "artist_name": "The Kid LAROI",
+      "image": "https://charts-static.billboard.com/img/2020/11/the-kid-laroi-qev-without-you-mqd-180x180.jpg",
+      "rank": "18",
+      "song_name": "Without You"
+    },
+    {
+      "artist_name": "Ariana Grande",
+      "image": "https://charts-static.billboard.com/img/2020/11/ariana-grande-da0-positions-7tu-180x180.jpg",
+      "rank": "19",
+      "song_name": "Positions"
+    },
+    {
+      "artist_name": "Tiesto",
+      "image": "https://charts-static.billboard.com/img/2020/10/tiesto-e64-the-business-6nk-180x180.jpg",
+      "rank": "20",
+      "song_name": "The Business"
+    },
+    {
+      "artist_name": "Ariana Grande",
+      "image": "https://charts-static.billboard.com/img/2020/11/ariana-grande-da0-34-35-9yx-180x180.jpg",
+      "rank": "21",
+      "song_name": "34+35"
+    },
+    {
+      "artist_name": "Tones And I",
+      "image": "https://charts-static.billboard.com/img/2019/07/tones-and-i-e1q-180x180.jpg",
+      "rank": "22",
+      "song_name": "Dance Monkey"
+    },
+    {
+      "artist_name": "Harry Styles",
+      "image": "https://charts-static.billboard.com/img/2019/11/harry-styles-bma-watermelon-sugar-w6n-180x180.jpg",
+      "rank": "23",
+      "song_name": "Watermelon Sugar"
+    },
+    {
+      "artist_name": "Maluma",
+      "image": "https://charts-static.billboard.com/img/2020/08/maluma-xt7-hawai-vy6-180x180.jpg",
+      "rank": "24",
+      "song_name": "Hawai"
+    },
+    {
+      "artist_name": "Maneskin",
+      "image": "https://charts-static.billboard.com/img/2017/12/maneskin-ews-180x180.jpg",
+      "rank": "25",
+      "song_name": "Beggin'"
+    },
+    {
+      "artist_name": "Lil Nas X & Jack Harlow",
+      "image": "https://charts-static.billboard.com/img/2021/08/lil-nas-x-qv4-industry-baby-bw6-180x180.jpg",
+      "rank": "26",
+      "song_name": "Industry Baby"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2021/04/olivia-rodrigo-3wl-deja-vu-q3u-180x180.jpg",
+      "rank": "27",
+      "song_name": "Deja Vu"
+    },
+    {
+      "artist_name": "Lewis Capaldi",
+      "image": "https://charts-static.billboard.com/img/2019/02/lewis-capaldi-s2h-180x180.jpg",
+      "rank": "28",
+      "song_name": "Someone You Loved"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg",
+      "rank": "29",
+      "song_name": "Perfect"
+    },
+    {
+      "artist_name": "Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2015/11/dua-lipa-5k0-180x180.jpg",
+      "rank": "30",
+      "song_name": "Don't Start Now"
+    },
+    {
+      "artist_name": "Internet Money & Gunna Featuring Don Toliver & NAV",
+      "image": "https://charts-static.billboard.com/img/2019/10/internet-money-vaq-180x180.jpg",
+      "rank": "31",
+      "song_name": "Lemonade"
+    },
+    {
+      "artist_name": "Travis Scott & HVME",
+      "image": "https://charts-static.billboard.com/img/2020/12/travis-scott-z9o-goosebumps-7u2-180x180.jpg",
+      "rank": "32",
+      "song_name": "Goosebumps"
+    },
+    {
+      "artist_name": "Rauw Alejandro",
+      "image": "https://charts-static.billboard.com/img/2021/06/rauw-alejandro-i2n-todo-de-ti-5i7-180x180.jpg",
+      "rank": "33",
+      "song_name": "Todo de Ti"
+    },
+    {
+      "artist_name": "Tate McRae",
+      "image": "https://charts-static.billboard.com/img/2020/08/tate-mcrae-yme-you-broke-me-first-int-180x180.jpg",
+      "rank": "34",
+      "song_name": "You Broke Me First."
+    },
+    {
+      "artist_name": "SAINt JHN",
+      "image": "https://charts-static.billboard.com/img/2020/03/saint-jhn-y2f-roses-h0w-180x180.jpg",
+      "rank": "35",
+      "song_name": "Roses"
+    },
+    {
+      "artist_name": "Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg",
+      "rank": "36",
+      "song_name": "Streets"
+    },
+    {
+      "artist_name": "Jawsh 685 x Jason Derulo",
+      "image": "https://charts-static.billboard.com/img/2020/06/jawsh-685-000-savage-love-laxed-siren-beat-ii1-180x180.jpg",
+      "rank": "37",
+      "song_name": "Savage Love (Laxed - Siren Beat)"
+    },
+    {
+      "artist_name": "Joel Corry X MNEK",
+      "image": "https://charts-static.billboard.com/img/2020/07/joel-corry-000-head-and-heart-aga-180x180.jpg",
+      "rank": "38",
+      "song_name": "Head & Heart"
+    },
+    {
+      "artist_name": "Giveon",
+      "image": "https://charts-static.billboard.com/img/2021/02/giveon-gpd-heartbreak-anniversary-4n9-180x180.jpg",
+      "rank": "39",
+      "song_name": "Heartbreak Anniversary"
+    },
+    {
+      "artist_name": "Pop Smoke Featuring Lil Baby & DaBaby",
+      "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-2yd-180x180.jpg",
+      "rank": "40",
+      "song_name": "For The Night"
+    },
+    {
+      "artist_name": "Post Malone & Swae Lee",
+      "image": "https://charts-static.billboard.com/img/2018/10/post-malone-tp6-180x180.jpg",
+      "rank": "41",
+      "song_name": "Sunflower (Spider-Man: Into The Spider-Verse)"
+    },
+    {
+      "artist_name": "Cardi B Featuring Megan Thee Stallion",
+      "image": "https://charts-static.billboard.com/img/2020/08/cardi-b-7bz-wap-8b4-180x180.jpg",
+      "rank": "42",
+      "song_name": "WAP"
+    },
+    {
+      "artist_name": "Bad Bunny",
+      "image": "https://charts-static.billboard.com/img/2021/06/bad-bunny-poo-yonaguni-zqi-180x180.jpg",
+      "rank": "43",
+      "song_name": "Yonaguni"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2017/01/ed-sheeran-w3r-shape-of-you-0ej-180x180.jpg",
+      "rank": "44",
+      "song_name": "Shape Of You"
+    },
+    {
+      "artist_name": "Bad Bunny & Rosalia",
+      "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-poo-180x180.jpg",
+      "rank": "45",
+      "song_name": "La Noche de Anoche"
+    },
+    {
+      "artist_name": "DaBaby Featuring Roddy Ricch",
+      "image": "https://charts-static.billboard.com/img/2017/01/dababy-sfn-180x180.jpg",
+      "rank": "46",
+      "song_name": "Rockstar"
+    },
+    {
+      "artist_name": "Polo G",
+      "image": "https://charts-static.billboard.com/img/2021/04/polo-g-n1o-rapstar-qed-180x180.jpg",
+      "rank": "47",
+      "song_name": "Rapstar"
+    },
+    {
+      "artist_name": "Pinkfong",
+      "image": "https://charts-static.billboard.com/img/2018/07/pinkfong-2rz-180x180.jpg",
+      "rank": "48",
+      "song_name": "Baby Shark"
+    },
+    {
+      "artist_name": "Riton X Nightcrawlers Featuring Mufasa & Hypeman",
+      "image": "https://charts-static.billboard.com/img/2021/02/riton-000-friday-7o2-180x180.jpg",
+      "rank": "49",
+      "song_name": "Friday"
+    },
+    {
+      "artist_name": "Los Legendarios, Wisin & Jhay Cortez",
+      "image": "https://charts-static.billboard.com/img/2020/10/los-legendarios-myk-180x180.jpg",
+      "rank": "50",
+      "song_name": "Fiel"
+    },
+    {
+      "artist_name": "Pop Smoke",
+      "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-2yd-180x180.jpg",
+      "rank": "51",
+      "song_name": "What You Know Bout Love"
+    },
+    {
+      "artist_name": "CJ",
+      "image": "https://charts-static.billboard.com/img/2020/11/cj-1ly-whoopty-ywg-180x180.jpg",
+      "rank": "52",
+      "song_name": "Whoopty"
+    },
+    {
+      "artist_name": "Imagine Dragons",
+      "image": "https://charts-static.billboard.com/img/2017/02/imagine-dragons-ud7-believer-hmi-180x180.jpg",
+      "rank": "53",
+      "song_name": "Believer"
+    },
+    {
+      "artist_name": "Cardi B",
+      "image": "https://charts-static.billboard.com/img/2021/02/cardi-b-7bz-up-bc2-180x180.jpg",
+      "rank": "54",
+      "song_name": "Up"
+    },
+    {
+      "artist_name": "YOASOBI",
+      "image": "https://charts-static.billboard.com/img/2020/09/yoasobi-i3g-yoru-ni-kakeru-tq6-180x180.jpg",
+      "rank": "55",
+      "song_name": "Yoru Ni Kakeru"
+    },
+    {
+      "artist_name": "Billie Eilish",
+      "image": "https://charts-static.billboard.com/img/2020/11/billie-eilish-lrt-therefore-i-am-ctw-180x180.jpg",
+      "rank": "56",
+      "song_name": "Therefore I Am"
+    },
+    {
+      "artist_name": "Nio Garcia X J Balvin X Bad Bunny",
+      "image": "https://charts-static.billboard.com/img/2021/04/nio-garcia-hk8-am-sfu-180x180.jpg",
+      "rank": "57",
+      "song_name": "AM"
+    },
+    {
+      "artist_name": "Billie Eilish",
+      "image": "https://charts-static.billboard.com/img/2019/04/billie-eilish-lrt-bad-guy-vul-180x180.jpg",
+      "rank": "58",
+      "song_name": "Bad Guy"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2019/11/olivia-rodrigo-3wl-180x180.jpg",
+      "rank": "59",
+      "song_name": "Traitor"
+    },
+    {
+      "artist_name": "Lewis Capaldi",
+      "image": "https://charts-static.billboard.com/img/2017/04/lewis-capaldi-s2h-180x180.jpg",
+      "rank": "60",
+      "song_name": "Before You Go"
+    },
+    {
+      "artist_name": "Post Malone",
+      "image": "https://charts-static.billboard.com/img/2015/06/post-malone-1vw-180x180.jpg",
+      "rank": "61",
+      "song_name": "Circles"
+    },
+    {
+      "artist_name": "Karol G",
+      "image": "https://charts-static.billboard.com/img/2020/11/karol-g-tb3-bichota-jzo-180x180.jpg",
+      "rank": "62",
+      "song_name": "Bichota"
+    },
+    {
+      "artist_name": "Lady Gaga & Bradley Cooper",
+      "image": "https://charts-static.billboard.com/img/2008/04/lady-gaga-b8x-180x180.jpg",
+      "rank": "63",
+      "song_name": "Shallow"
+    },
+    {
+      "artist_name": "Fleetwood Mac",
+      "image": "https://charts-static.billboard.com/img/2011/05/fleetwood-mac-fe3-dreams-jvb-180x180.jpg",
+      "rank": "64",
+      "song_name": "Dreams"
+    },
+    {
+      "artist_name": "The Neighbourhood",
+      "image": "https://charts-static.billboard.com/img/2013/03/the-neighbourhood-ro9-180x180.jpg",
+      "rank": "65",
+      "song_name": "Sweater Weather"
+    },
+    {
+      "artist_name": "Nathan Evans",
+      "image": "https://charts-static.billboard.com/img/2021/02/nathan-evans-000-wellerman-w2e-180x180.jpg",
+      "rank": "66",
+      "song_name": "Wellerman"
+    },
+    {
+      "artist_name": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+      "image": "https://charts-static.billboard.com/img/2020/06/jack-harlow-7kn-whats-poppin-q71-180x180.jpg",
+      "rank": "67",
+      "song_name": "Whats Poppin"
+    },
+    {
+      "artist_name": "Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2021/06/doja-cat-lm6-need-to-know-9r2-180x180.jpg",
+      "rank": "68",
+      "song_name": "Need To Know"
+    },
+    {
+      "artist_name": "Billie Eilish & Khalid",
+      "image": "https://charts-static.billboard.com/img/2017/02/billie-eilish-lrt-180x180.jpg",
+      "rank": "69",
+      "song_name": "Lovely"
+    },
+    {
+      "artist_name": "Farruko",
+      "image": "https://charts-static.billboard.com/img/2021/07/farruko-lo8-pepas-ymw-180x180.jpg",
+      "rank": "70",
+      "song_name": "Pepas"
+    },
+    {
+      "artist_name": "BTS",
+      "image": "https://charts-static.billboard.com/img/2021/07/bts-mv7-permission-to-dance-17f-180x180.jpg",
+      "rank": "71",
+      "song_name": "Permission To Dance"
+    },
+    {
+      "artist_name": "Maroon 5 Featuring Megan Thee Stallion",
+      "image": "https://charts-static.billboard.com/img/2021/03/maroon-5-kks-beautiful-mistakes-eyo-180x180.jpg",
+      "rank": "72",
+      "song_name": "Beautiful Mistakes"
+    },
+    {
+      "artist_name": "Myke Towers & Juhn",
+      "image": "https://charts-static.billboard.com/img/2021/01/myke-towers-g1s-bandido-czh-180x180.jpg",
+      "rank": "73",
+      "song_name": "Bandido"
+    },
+    {
+      "artist_name": "Lil Nas X Featuring Billy Ray Cyrus",
+      "image": "https://charts-static.billboard.com/img/2019/01/lil-nas-x-qv4-180x180.jpg",
+      "rank": "74",
+      "song_name": "Old Town Road"
+    },
+    {
+      "artist_name": "Lil Tjay Featuring 6LACK",
+      "image": "https://charts-static.billboard.com/img/2021/02/lil-tjay-gqk-calling-my-phone-7y8-180x180.jpg",
+      "rank": "75",
+      "song_name": "Calling My Phone"
+    },
+    {
+      "artist_name": "Maneskin",
+      "image": "https://charts-static.billboard.com/img/2021/06/maneskin-ews-i-wanna-be-your-slave-7ws-180x180.jpg",
+      "rank": "76",
+      "song_name": "I Wanna Be Your Slave"
+    },
+    {
+      "artist_name": "Drake Featuring Lil Baby",
+      "image": "https://charts-static.billboard.com/img/2021/03/drake-p3d-wants-and-needs-sfa-180x180.jpg",
+      "rank": "77",
+      "song_name": "Wants And Needs"
+    },
+    {
+      "artist_name": "SZA",
+      "image": "https://charts-static.billboard.com/img/2021/01/sza-mhq-good-days-yue-180x180.jpg",
+      "rank": "78",
+      "song_name": "Good Days"
+    },
+    {
+      "artist_name": "Maroon 5",
+      "image": "https://charts-static.billboard.com/img/2019/10/maroon-5-9st-180x180.jpg",
+      "rank": "79",
+      "song_name": "Memories"
+    },
+    {
+      "artist_name": "Shawn Mendes & Camila Cabello",
+      "image": "https://charts-static.billboard.com/img/2014/07/shawn-mendes-pz2-180x180.jpg",
+      "rank": "80",
+      "song_name": "Senorita"
+    },
+    {
+      "artist_name": "Kali Uchis",
+      "image": "https://charts-static.billboard.com/img/2015/07/kali-uchis-dp2-180x180.jpg",
+      "rank": "81",
+      "song_name": "Telepatia"
+    },
+    {
+      "artist_name": "Billie Eilish",
+      "image": "https://charts-static.billboard.com/img/2017/02/billie-eilish-lrt-180x180.jpg",
+      "rank": "82",
+      "song_name": "Happier Than Ever"
+    },
+    {
+      "artist_name": "Duncan Laurence",
+      "image": "https://charts-static.billboard.com/img/2021/02/duncan-laurence-030-arcade-ggy-180x180.jpg",
+      "rank": "83",
+      "song_name": "Arcade"
+    },
+    {
+      "artist_name": "DJ Nelson Presenta Jay Wheeler & Myke Towers",
+      "image": "https://charts-static.billboard.com/img/2020/03/jay-wheeler-9ai-180x180.jpg",
+      "rank": "84",
+      "song_name": "La Curiosidad"
+    },
+    {
+      "artist_name": "Justin Bieber Featuring Chance The Rapper",
+      "image": "https://charts-static.billboard.com/img/2020/10/justin-bieber-f8k-holy-2uy-180x180.jpg",
+      "rank": "85",
+      "song_name": "Holy"
+    },
+    {
+      "artist_name": "Saweetie Featuring Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2021/01/saweetie-plv-best-friend-tlw-180x180.jpg",
+      "rank": "86",
+      "song_name": "Best Friend"
+    },
+    {
+      "artist_name": "Queen",
+      "image": "https://charts-static.billboard.com/img/2005/02/queen-m21-180x180.jpg",
+      "rank": "87",
+      "song_name": "Bohemian Rhapsody"
+    },
+    {
+      "artist_name": "The Chainsmokers Featuring Halsey",
+      "image": "https://charts-static.billboard.com/img/2013/11/the-chainsmokers-39n-87x87.jpg",
+      "rank": "88",
+      "song_name": "Closer"
+    },
+    {
+      "artist_name": "Justin Bieber & benny blanco",
+      "image": "https://charts-static.billboard.com/img/2020/10/justin-bieber-f8k-lonely-m89-180x180.jpg",
+      "rank": "89",
+      "song_name": "Lonely"
+    },
+    {
+      "artist_name": "Mariah Carey",
+      "image": "https://charts-static.billboard.com/img/2004/12/mariah-carey-tgq-180x180.jpg",
+      "rank": "90",
+      "song_name": "All I Want For Christmas Is You"
+    },
+    {
+      "artist_name": "John Legend",
+      "image": "https://charts-static.billboard.com/img/2013/08/john-legend-xtz-106x106.jpg",
+      "rank": "91",
+      "song_name": "All Of Me"
+    },
+    {
+      "artist_name": "J Balvin & Maria Becerra",
+      "image": "https://charts-static.billboard.com/img/2021/06/j-balvin-i5b-que-mas-pues-d8y-180x180.jpg",
+      "rank": "92",
+      "song_name": "Que Mas Pues?"
+    },
+    {
+      "artist_name": "Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2021/03/justin-bieber-f8k-hold-on-urq-180x180.jpg",
+      "rank": "93",
+      "song_name": "Hold On"
+    },
+    {
+      "artist_name": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2017/02/luis-fonsi-dey-despacito-80r-180x180.jpg",
+      "rank": "94",
+      "song_name": "Despacito"
+    },
+    {
+      "artist_name": "Travis Scott",
+      "image": "https://charts-static.billboard.com/img/2016/10/travis-scott-jll-180x180.jpg",
+      "rank": "95",
+      "song_name": "Goosebumps"
+    },
+    {
+      "artist_name": "Sebastian Yatra X Myke Towers",
+      "image": "https://charts-static.billboard.com/img/2021/05/sebastian-yatra-csl-pareja-del-ano-sly-180x180.jpg",
+      "rank": "96",
+      "song_name": "Pareja del Ano"
+    },
+    {
+      "artist_name": "Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2021/01/justin-bieber-f8k-anyone-h9g-180x180.jpg",
+      "rank": "97",
+      "song_name": "Anyone"
+    },
+    {
+      "artist_name": "Miley Cyrus Featuring Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2020/12/miley-cyrus-rjp-prisoner-69j-180x180.jpg",
+      "rank": "98",
+      "song_name": "Prisoner"
+    },
+    {
+      "artist_name": "Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg",
+      "rank": "99",
+      "song_name": "Woman"
+    },
+    {
+      "artist_name": "James Arthur",
+      "image": "https://charts-static.billboard.com/img/2016/11/james-arthur-p5t-106x106.jpg",
+      "rank": "100",
+      "song_name": "Say You Won't Let Go"
+    },
+    {
+      "artist_name": "Taylor Swift",
+      "image": "https://charts-static.billboard.com/img/2020/12/taylor-swift-5wo-willow-r17-180x180.jpg",
+      "rank": "101",
+      "song_name": "Willow"
+    },
+    {
+      "artist_name": "CKay",
+      "image": "https://charts-static.billboard.com/img/2021/03/ckay-eoq-180x180.jpg",
+      "rank": "102",
+      "song_name": "Love Nwantiti (Ah Ah Ah)"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2019/11/olivia-rodrigo-3wl-180x180.jpg",
+      "rank": "103",
+      "song_name": "Happier"
+    },
+    {
+      "artist_name": "Meduza & Dermot Kennedy",
+      "image": "https://charts-static.billboard.com/img/2020/11/meduza-000-paradise-sns-180x180.jpg",
+      "rank": "104",
+      "song_name": "Paradise"
+    },
+    {
+      "artist_name": "Machine Gun Kelly X blackbear",
+      "image": "https://charts-static.billboard.com/img/2020/08/machine-gun-kelly-3ma-my-exs-best-friend-ilc-180x180.jpg",
+      "rank": "105",
+      "song_name": "My Ex's Best Friend"
+    },
+    {
+      "artist_name": "Regard",
+      "image": "https://charts-static.billboard.com/img/2019/08/dj-regard-rjm-180x180.jpg",
+      "rank": "106",
+      "song_name": "Ride It."
+    },
+    {
+      "artist_name": "Walker Hayes",
+      "image": "https://charts-static.billboard.com/img/2021/06/walker-hayes-3ec-fancy-like-m9f-180x180.jpg",
+      "rank": "107",
+      "song_name": "Fancy Like"
+    },
+    {
+      "artist_name": "Miley Cyrus",
+      "image": "https://charts-static.billboard.com/img/2020/08/miley-cyrus-rjp-midnight-sky-m3e-180x180.jpg",
+      "rank": "108",
+      "song_name": "Midnight Sky"
+    },
+    {
+      "artist_name": "Rauw Alejandro & Anuel AA",
+      "image": "https://charts-static.billboard.com/img/2018/09/rauw-alejandro-i2n-180x180.jpg",
+      "rank": "109",
+      "song_name": "Reloj"
+    },
+    {
+      "artist_name": "Future Featuring Drake",
+      "image": "https://charts-static.billboard.com/img/1988/03/future-f8b-180x180.jpg",
+      "rank": "110",
+      "song_name": "Life Is Good"
+    },
+    {
+      "artist_name": "Journey",
+      "image": "https://charts-static.billboard.com/img/1975/05/journey-9z6-180x180.jpg",
+      "rank": "111",
+      "song_name": "Don't Stop Believin'"
+    },
+    {
+      "artist_name": "ATB x Topic x A7S",
+      "image": "https://charts-static.billboard.com/img/2021/02/atb-vk6-your-love-9pm-7tz-180x180.jpg",
+      "rank": "112",
+      "song_name": "Your Love (9PM)"
+    },
+    {
+      "artist_name": "Nirvana",
+      "image": "https://charts-static.billboard.com/img/2011/04/nirvana-ug8-smells-like-teen-spirit-is8-180x180.jpg",
+      "rank": "113",
+      "song_name": "Smells Like Teen Spirit"
+    },
+    {
+      "artist_name": "Ed Sheeran & Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2019/05/ed-sheeran-w3r-i-dont-care-34w-180x180.jpg",
+      "rank": "114",
+      "song_name": "I Don't Care"
+    },
+    {
+      "artist_name": "Sech & Jhay Cortez",
+      "image": "https://charts-static.billboard.com/img/2021/02/sech-43v-911-7mj-180x180.jpg",
+      "rank": "115",
+      "song_name": "911"
+    },
+    {
+      "artist_name": "Luke Combs",
+      "image": "https://charts-static.billboard.com/img/2020/11/luke-combs-67b-forever-after-all-3x8-180x180.jpg",
+      "rank": "116",
+      "song_name": "Forever After All"
+    },
+    {
+      "artist_name": "Elton John & Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2021/08/elton-john-m6x-cold-heart-pnau-remix-8pz-180x180.jpg",
+      "rank": "117",
+      "song_name": "Cold Heart (PNAU Remix)"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2021/09/ed-sheeran-w3r-shivers-9kr-180x180.jpg",
+      "rank": "118",
+      "song_name": "Shivers"
+    },
+    {
+      "artist_name": "Hozier",
+      "image": "https://charts-static.billboard.com/img/2014/05/hozier-hdg-106x106.jpg",
+      "rank": "119",
+      "song_name": "Take Me To Church"
+    },
+    {
+      "artist_name": "Shouse",
+      "image": "https://charts-static.billboard.com/img/2021/06/shouse-hek-love-tonight-4iu-180x180.jpg",
+      "rank": "120",
+      "song_name": "Love Tonight"
+    },
+    {
+      "artist_name": "Shawn Mendes & Justin Bieber",
+      "image": "https://charts-static.billboard.com/img/2020/12/shawn-mendes-pz2-monster-fg7-180x180.jpg",
+      "rank": "121",
+      "song_name": "Monster"
+    },
+    {
+      "artist_name": "Pop Smoke",
+      "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-5gi-180x180.jpg",
+      "rank": "122",
+      "song_name": "Dior"
+    },
+    {
+      "artist_name": "Lady Gaga & Ariana Grande",
+      "image": "https://charts-static.billboard.com/img/2020/06/lady-gaga-b8x-rain-on-me-iib-180x180.jpg",
+      "rank": "123",
+      "song_name": "Rain On Me"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2011/07/ed-sheeran-w3r-180x180.jpg",
+      "rank": "124",
+      "song_name": "Thinking Out Loud"
+    },
+    {
+      "artist_name": "Drake Featuring Future & Young Thug",
+      "image": "https://charts-static.billboard.com/img/2021/09/drake-p3d-way-2-sexy-wct-180x180.jpg",
+      "rank": "125",
+      "song_name": "Way 2 Sexy"
+    },
+    {
+      "artist_name": "Eagles",
+      "image": "https://charts-static.billboard.com/img/1972/06/eagles-ma9-180x180.jpg",
+      "rank": "126",
+      "song_name": "Hotel California"
+    },
+    {
+      "artist_name": "Adele",
+      "image": "https://charts-static.billboard.com/img/2021/10/adele-000-easy-on-me-03x-180x180.jpg",
+      "rank": "127",
+      "song_name": "Easy On Me"
+    },
+    {
+      "artist_name": "Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg",
+      "rank": "128",
+      "song_name": "Say So"
+    },
+    {
+      "artist_name": "Topic & A7S",
+      "image": "https://charts-static.billboard.com/img/2020/05/topic-r9y-breaking-me-7x3-180x180.jpg",
+      "rank": "129",
+      "song_name": "Breaking Me"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2019/11/olivia-rodrigo-3wl-180x180.jpg",
+      "rank": "130",
+      "song_name": "Favorite Crime"
+    },
+    {
+      "artist_name": "Drake Featuring Lil Durk",
+      "image": "https://charts-static.billboard.com/img/2020/08/drake-p3d-laugh-now-cry-later-4ss-180x180.jpg",
+      "rank": "131",
+      "song_name": "Laugh Now Cry Later"
+    },
+    {
+      "artist_name": "Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2015/11/dua-lipa-5k0-180x180.jpg",
+      "rank": "132",
+      "song_name": "We're Good"
+    },
+    {
+      "artist_name": "BTS",
+      "image": "https://charts-static.billboard.com/img/2020/12/bts-mv7-life-goes-on-msd-180x180.jpg",
+      "rank": "133",
+      "song_name": "Life Goes On"
+    },
+    {
+      "artist_name": "The Chainsmokers & Coldplay",
+      "image": "https://charts-static.billboard.com/img/2013/11/the-chainsmokers-39n-87x87.jpg",
+      "rank": "134",
+      "song_name": "Something Just Like This"
+    },
+    {
+      "artist_name": "Doja Cat & The Weeknd",
+      "image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg",
+      "rank": "135",
+      "song_name": "You Right"
+    },
+    {
+      "artist_name": "OneRepublic",
+      "image": "https://charts-static.billboard.com/img/2007/04/onerepublic-m2z-180x180.jpg",
+      "rank": "136",
+      "song_name": "Counting Stars"
+    },
+    {
+      "artist_name": "Lil Baby",
+      "image": "https://charts-static.billboard.com/img/2020/12/lil-baby-lbq-on-me-ckx-180x180.jpg",
+      "rank": "137",
+      "song_name": "On Me"
+    },
+    {
+      "artist_name": "Marshmello X Jonas Brothers",
+      "image": "https://charts-static.billboard.com/img/2021/06/marshmello-dhc-leave-before-you-love-me-8lo-180x180.jpg",
+      "rank": "138",
+      "song_name": "Leave Before You Love Me"
+    },
+    {
+      "artist_name": "Black Eyed Peas X Shakira",
+      "image": "https://charts-static.billboard.com/img/1998/07/the-black-eyed-peas-f5s-180x180.jpg",
+      "rank": "139",
+      "song_name": "Girl Like Me"
+    },
+    {
+      "artist_name": "Gera MX + Christian Nodal",
+      "image": "https://charts-static.billboard.com/img/2021/05/gera-mx-000-botella-tras-botella-1be-180x180.jpg",
+      "rank": "140",
+      "song_name": "Botella Tras Botella"
+    },
+    {
+      "artist_name": "YOASOBI",
+      "image": "https://charts-static.billboard.com/img/2021/01/yoasobi-i3g-monster-fmi-180x180.jpg",
+      "rank": "141",
+      "song_name": "Monster"
+    },
+    {
+      "artist_name": "Guns N' Roses",
+      "image": "https://charts-static.billboard.com/img/2010/07/guns-n-roses-egb-sweet-child-o-mine-yme-180x180.jpg",
+      "rank": "142",
+      "song_name": "Sweet Child O' Mine"
+    },
+    {
+      "artist_name": "Wham!",
+      "image": "https://charts-static.billboard.com/img/1978/05/wham-usx-106x106.jpg",
+      "rank": "143",
+      "song_name": "Last Christmas"
+    },
+    {
+      "artist_name": "Karol G & Mariah Angeliq",
+      "image": "https://charts-static.billboard.com/img/2016/05/karol-g-tb3-180x180.jpg",
+      "rank": "144",
+      "song_name": "El Makinon"
+    },
+    {
+      "artist_name": "Harry Styles",
+      "image": "https://charts-static.billboard.com/img/2017/04/harry-styles-psx-180x180.jpg",
+      "rank": "145",
+      "song_name": "Adore You"
+    },
+    {
+      "artist_name": "The Weeknd",
+      "image": "https://charts-static.billboard.com/img/2021/08/the-weeknd-uyi-take-my-breath-o1i-180x180.jpg",
+      "rank": "146",
+      "song_name": "Take My Breath"
+    },
+    {
+      "artist_name": "Sech, Daddy Yankee & J Balvin Featuring Rosalia & Farruko",
+      "image": "https://charts-static.billboard.com/img/2020/04/sech-43v-relacion-zna-180x180.jpg",
+      "rank": "147",
+      "song_name": "Relacion"
+    },
+    {
+      "artist_name": "Chris Brown & Young Thug",
+      "image": "https://charts-static.billboard.com/img/2005/07/chris-brown-abf-180x180.jpg",
+      "rank": "148",
+      "song_name": "Go Crazy"
+    },
+    {
+      "artist_name": "Pooh Shiesty Featuring Lil Durk",
+      "image": "https://charts-static.billboard.com/img/2021/01/pooh-shiesty-klv-back-in-blood-dn3-180x180.jpg",
+      "rank": "149",
+      "song_name": "Back In Blood"
+    },
+    {
+      "artist_name": "Ava Max",
+      "image": "https://charts-static.billboard.com/img/2020/03/ava-max-h98-kings-and-queens-in6-180x180.jpg",
+      "rank": "150",
+      "song_name": "Kings & Queens"
+    },
+    {
+      "artist_name": "Justin Bieber Featuring Quavo",
+      "image": "https://charts-static.billboard.com/img/2020/02/justin-bieber-4oh-intentions-fcv-180x180.jpg",
+      "rank": "151",
+      "song_name": "Intentions"
+    },
+    {
+      "artist_name": "Ed Sheeran",
+      "image": "https://charts-static.billboard.com/img/2021/01/ed-sheeran-w3r-afterglow-0yq-180x180.jpg",
+      "rank": "152",
+      "song_name": "Afterglow"
+    },
+    {
+      "artist_name": "Aventura x Bad Bunny",
+      "image": "https://charts-static.billboard.com/img/2021/08/aventura-mvs-volvi-1pk-180x180.jpg",
+      "rank": "153",
+      "song_name": "Volvi"
+    },
+    {
+      "artist_name": "Coldplay x BTS",
+      "image": "https://charts-static.billboard.com/img/2021/10/coldplay-bm3-my-universe-68v-180x180.jpg",
+      "rank": "154",
+      "song_name": "My Universe"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2019/11/olivia-rodrigo-3wl-180x180.jpg",
+      "rank": "155",
+      "song_name": "Brutal"
+    },
+    {
+      "artist_name": "Bruno Mars",
+      "image": "https://charts-static.billboard.com/img/2010/01/bruno-mars-c75-180x180.jpg",
+      "rank": "156",
+      "song_name": "Talking To The Moon"
+    },
+    {
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://charts-static.billboard.com/img/2019/11/olivia-rodrigo-3wl-180x180.jpg",
+      "rank": "157",
+      "song_name": "Jealousy, Jealousy"
+    },
+    {
+      "artist_name": "Doja Cat",
+      "image": "https://charts-static.billboard.com/img/2018/04/doja-cat-lm6-180x180.jpg",
+      "rank": "158",
+      "song_name": "Ain't Shit"
+    },
+    {
+      "artist_name": "Ava Max",
+      "image": "https://charts-static.billboard.com/img/2018/09/ava-max-h98-180x180.jpg",
+      "rank": "159",
+      "song_name": "My Head And My Heart"
+    },
+    {
+      "artist_name": "TINI X Maria Becerra",
+      "image": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif",
+      "rank": "160",
+      "song_name": "Mienteme"
+    },
+    {
+      "artist_name": "Joel Corry X RAYE X David Guetta",
+      "image": "https://charts-static.billboard.com/img/2021/03/joel-corry-000-bed-a8o-180x180.jpg",
+      "rank": "161",
+      "song_name": "Bed"
+    },
+    {
+      "artist_name": "Roddy Ricch",
+      "image": "https://charts-static.billboard.com/img/2018/11/roddy-ricch-eqp-180x180.jpg",
+      "rank": "162",
+      "song_name": "The Box"
+    },
+    {
+      "artist_name": "P!nk + Willow Sage Hart",
+      "image": "https://charts-static.billboard.com/img/2021/02/pnk-it7-cover-me-in-sunshine-2ac-180x180.jpg",
+      "rank": "163",
+      "song_name": "Cover Me In Sunshine"
+    },
+    {
+      "artist_name": "Megan Thee Stallion",
+      "image": "https://charts-static.billboard.com/img/2019/01/megan-thee-stallion-dkc-180x180.jpg",
+      "rank": "164",
+      "song_name": "Body"
+    },
+    {
+      "artist_name": "SpotemGottem Featuring Pooh Shiesty Or DaBaby",
+      "image": "https://charts-static.billboard.com/img/2021/02/spotemgottem-wp7-beat-box-zgp-180x180.jpg",
+      "rank": "165",
+      "song_name": "Beat Box"
+    },
+    {
+      "artist_name": "Travis Scott",
+      "image": "https://charts-static.billboard.com/img/2018/08/travis-scott-jll-180x180.jpg",
+      "rank": "166",
+      "song_name": "Sicko Mode"
+    },
+    {
+      "artist_name": "Drake Featuring Travis Scott",
+      "image": "https://charts-static.billboard.com/img/2009/04/drake-p3d-180x180.jpg",
+      "rank": "167",
+      "song_name": "Fair Trade"
+    },
+    {
+      "artist_name": "Drake Featuring 21 Savage & Project Pat",
+      "image": "https://charts-static.billboard.com/img/2009/04/drake-p3d-180x180.jpg",
+      "rank": "168",
+      "song_name": "Knife Talk"
+    },
+    {
+      "artist_name": "Brenda Lee",
+      "image": "https://charts-static.billboard.com/img/2005/12/brenda-lee-fbd-rockin-around-the-christmas-tree-k4k-180x180.jpg",
+      "rank": "169",
+      "song_name": "Rockin' Around The Christmas Tree"
+    },
+    {
+      "artist_name": "Drake Featuring Lil Baby",
+      "image": "https://charts-static.billboard.com/img/2009/04/drake-p3d-180x180.jpg",
+      "rank": "170",
+      "song_name": "Girls Want Girls"
+    },
+    {
+      "artist_name": "Coldplay",
+      "image": "https://charts-static.billboard.com/img/2005/06/coldplay-bm3-yellow-ty6-180x180.jpg",
+      "rank": "171",
+      "song_name": "Yellow"
+    },
+    {
+      "artist_name": "Jason Derulo",
+      "image": "https://charts-static.billboard.com/img/2009/07/jason-derulo-d0c-180x180.jpg",
+      "rank": "172",
+      "song_name": "Take You Dancing"
+    },
+    {
+      "artist_name": "Tion Wayne X Russ Millions Featuring ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo",
+      "image": "https://charts-static.billboard.com/img/2021/04/russ-millions-000-body-bym-180x180.jpg",
+      "rank": "173",
+      "song_name": "Body"
+    },
+    {
+      "artist_name": "Bella Poarch",
+      "image": "https://charts-static.billboard.com/img/2021/05/bella-poarch-000-build-a-bitch-8xr-180x180.jpg",
+      "rank": "174",
+      "song_name": "Build A Bitch"
+    },
+    {
+      "artist_name": "Juice WRLD",
+      "image": "https://charts-static.billboard.com/img/2018/05/juice-wrld-6bj-180x180.jpg",
+      "rank": "175",
+      "song_name": "Lucid Dreams"
+    },
+    {
+      "artist_name": "Powfu Featuring beabadoobee",
+      "image": "https://charts-static.billboard.com/img/2020/03/powfu-000-death-bed-xs7-180x180.jpg",
+      "rank": "176",
+      "song_name": "Death Bed"
+    },
+    {
+      "artist_name": "Boza",
+      "image": "https://charts-static.billboard.com/img/2020/12/boza-a5v-180x180.jpg",
+      "rank": "177",
+      "song_name": "Hecha Pa' Mi"
+    },
+    {
+      "artist_name": "Selena Gomez With Rauw Alejandro",
+      "image": "https://charts-static.billboard.com/img/2021/02/selena-gomez-lkr-baila-conmigo-au1-180x180.jpg",
+      "rank": "178",
+      "song_name": "Baila Conmigo"
+    },
+    {
+      "artist_name": "Drake",
+      "image": "https://charts-static.billboard.com/img/2021/03/drake-p3d-whats-next-yzk-180x180.jpg",
+      "rank": "179",
+      "song_name": "What's Next"
+    },
+    {
+      "artist_name": "Tom Odell",
+      "image": "https://charts-static.billboard.com/img/2013/01/tom-odell-qwt-180x180.jpg",
+      "rank": "180",
+      "song_name": "Another Love"
+    },
+    {
+      "artist_name": "Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2020/04/dua-lipa-5k0-break-my-heart-fn5-180x180.jpg",
+      "rank": "181",
+      "song_name": "Break My Heart"
+    },
+    {
+      "artist_name": "Bobby Helms",
+      "image": "https://charts-static.billboard.com/img/2006/12/bobby-helms-xys-jingle-bell-rock-f0t-180x180.jpg",
+      "rank": "182",
+      "song_name": "Jingle Bell Rock"
+    },
+    {
+      "artist_name": "Yuuri",
+      "image": "https://charts-static.billboard.com/img/2016/09/yuri-1-i9y-180x180.jpg",
+      "rank": "183",
+      "song_name": "Dry Flower"
+    },
+    {
+      "artist_name": "Master KG Featuring Burna Boy & Nomcebo Zikode",
+      "image": "https://charts-static.billboard.com/img/2020/06/master-kg-featuring-burna-boy-and-nomcebo-zikode-120-180x180.jpg",
+      "rank": "184",
+      "song_name": "Jerusalema"
+    },
+    {
+      "artist_name": "BLACKPINK",
+      "image": "https://charts-static.billboard.com/img/2016/08/blackpink-l5z-180x180.jpg",
+      "rank": "185",
+      "song_name": "How You Like That"
+    },
+    {
+      "artist_name": "Travis Scott",
+      "image": "https://charts-static.billboard.com/img/2019/10/travis-scott-jll-180x180.jpg",
+      "rank": "186",
+      "song_name": "Highest In The Room"
+    },
+    {
+      "artist_name": "Pop Smoke Featuring Lil Tjay",
+      "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-2yd-180x180.jpg",
+      "rank": "187",
+      "song_name": "Mood Swings"
+    },
+    {
+      "artist_name": "Dua Lipa",
+      "image": "https://charts-static.billboard.com/img/2015/11/dua-lipa-5k0-180x180.jpg",
+      "rank": "188",
+      "song_name": "Love Again"
+    },
+    {
+      "artist_name": "Lil Nas X",
+      "image": "https://charts-static.billboard.com/img/2020/11/lil-nas-x-qv4-holiday-53u-180x180.jpg",
+      "rank": "189",
+      "song_name": "Holiday"
+    },
+    {
+      "artist_name": "Harry Styles",
+      "image": "https://charts-static.billboard.com/img/2020/11/harry-styles-bma-golden-fps-180x180.jpg",
+      "rank": "190",
+      "song_name": "Golden"
+    },
+    {
+      "artist_name": "Mora, Bad Bunny & Sech",
+      "image": "https://charts-static.billboard.com/img/2021/07/mora-000-volando-ohb-180x180.jpg",
+      "rank": "191",
+      "song_name": "Volando"
+    },
+    {
+      "artist_name": "OneRepublic",
+      "image": "https://charts-static.billboard.com/img/2007/04/onerepublic-m2z-180x180.jpg",
+      "rank": "192",
+      "song_name": "Run"
+    },
+    {
+      "artist_name": "Rauw Alejandro X Mr. Naisgai",
+      "image": "https://charts-static.billboard.com/img/2018/09/rauw-alejandro-i2n-180x180.jpg",
+      "rank": "193",
+      "song_name": "2/Catorce"
+    },
+    {
+      "artist_name": "AC/DC",
+      "image": "https://charts-static.billboard.com/img/2012/12/ac-dc-3eb-180x180.jpg",
+      "rank": "194",
+      "song_name": "Thunderstruck"
+    },
+    {
+      "artist_name": "Wizkid Featuring Justin Bieber & Tems",
+      "image": "https://charts-static.billboard.com/img/2021/05/wizkid-qj3-essence-0rl-180x180.jpg",
+      "rank": "195",
+      "song_name": "Essence"
+    },
+    {
+      "artist_name": "Imagine Dragons",
+      "image": "https://charts-static.billboard.com/img/2021/03/imagine-dragons-ud7-follow-you-dpd-180x180.jpg",
+      "rank": "196",
+      "song_name": "Follow You"
+    },
+    {
+      "artist_name": "The Weeknd Featuring Daft Punk",
+      "image": "https://charts-static.billboard.com/img/2011/11/the-weeknd-nsd-180x180.jpg",
+      "rank": "197",
+      "song_name": "Starboy"
+    },
+    {
+      "artist_name": "J Balvin & Skrillex",
+      "image": "https://charts-static.billboard.com/img/2021/07/j-balvin-i5b-in-da-getto-ssj-180x180.jpg",
+      "rank": "198",
+      "song_name": "In Da Getto"
+    },
+    {
+      "artist_name": "Farruko",
+      "image": "https://charts-static.billboard.com/img/2010/05/farruko-lo8-180x180.jpg",
+      "rank": "199",
+      "song_name": "La Toxica"
+    },
+    {
+      "artist_name": "Manuel Turizo, Myke Towers & Rauw Alejandro",
+      "image": "https://charts-static.billboard.com/img/2020/10/manuel-turizo-eml-la-nota-hrp-180x180.jpg",
+      "rank": "200",
+      "song_name": "La Nota"
+    }
+  ]

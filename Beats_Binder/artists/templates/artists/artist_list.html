@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% load home_extras %}
+
+{% block search %} 
+<form action="artists/artist_search_results" method="get">
+    {% csrf_token %}
+    {{artist_search_form.as_p}}
+</form>
+{% endblock search %}
+
+<body>
+    {% block content %}
+  <div class="container">
+    <div class="row">
+        <div class="col-12">
+          <h1>Artists</h1>
+          <ul class="list-group">
+            {% for artist in object_list %}
+			{% if artist.saved %}
+            {% with "http://127.0.0.1:8000/artists/"|concatenate:artist.pk as url %}
+              {% with url|returnLink:artist.name as link %}
+              <li class="list-group-item list-group-item-dark">{{ link|safe }}
+              <form method="post">
+                    {% csrf_token %}
+                    <button type="submit" name={{ artist.deezer_id }}>UNSAVE</button>
+                    </form></li>
+              {% endwith %}{% endwith %}
+			  {% endif %}
+            {% endfor %}
+          </ul>
+        {% endblock content %}
+      </div>
+    </div>
+    </div>
+  </div>
+</body>

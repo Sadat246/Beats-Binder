@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% load home_extras %}
+
+{% block search %} 
+<form action="songs/song_search_results" method="get">
+    {% csrf_token %}
+    {{song_search_form.as_p}}
+</form>
+{% endblock search %}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Data</title>
+</head>
+<body>
+    {% block content%}
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+              <h1>Songs</h1>
+              <ul class="list-group">
+                {% for song in object_list %}
+                {% if song.saved %}
+                  {% with "http://127.0.0.1:8000/songs/"|concatenate:song.pk as url %}
+                  {% with url|returnLink:song.name as link %}
+                  <li class="list-group-item list-group-item-dark">{{ link|safe }}
+                      <form method="post">
+                        {% csrf_token %}
+                        <button type="submit" name={{ song.deezer_id }}>UNSAVE</button>
+                        </form> 
+                        {% comment %} {{ song.saved }} </li> {% endcomment %}
+              {% endwith %}{% endwith %}
+                {% endif %}
+                {% endfor %}
+              </ul>
+              {% endblock content %}
+          </div>
+        </div>
+        </div>
+      </div>
+</body>
+
+
+
+
+
+
